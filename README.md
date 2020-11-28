@@ -7,7 +7,7 @@
 To install, ensure your system has `python3` and `python3-pip`, then run:
 
 ```sh
-python3 -m pip install dynmap_api
+python3 -m pip install dynmap-api
 ```
 
 ## Documentation
